@@ -52,3 +52,29 @@ Following are the main functionalities:</h4>
 <img align="center"
       src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/sendMail.png" 
       alt="gallery" height="500" width="820" />
+      
+
+<br/>
+<br/>
+<h2> Text to Audio and Audio to Text</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/audioFile.png" 
+      alt="gallery" height="500" width="820" />
+
+<br/>
+<br/>
+<h2>Open and Save PDF file</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/pdf.png" 
+      alt="gallery" height="500" width="820" />
+      
+
+<br/>
+<br/>
+<h2>Jarvis Mode</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/jarvis.png" 
+      alt="gallery" height="500" width="820" />
