@@ -26,3 +26,29 @@ Following are the main functionalities:</h4>
 <li>Audio File to Text</li>
 <li>Send mail</li>
 </ul>
+
+<br/>
+<br/>
+<h2> Login</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/login.png" 
+      alt="gallery" height="500" width="820" />
+      
+
+<br/>
+<br/>
+<h2> Editor</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/editor.png" 
+      alt="gallery" height="500" width="820" />
+      
+
+<br/>
+<br/>
+<h2> Send Mail</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/SmartEditor/blob/main/outputs/sendMail.png" 
+      alt="gallery" height="500" width="820" />
